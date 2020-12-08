@@ -13,5 +13,6 @@ def print_hi(name, age):
 if __name__ == '__main__':
     print_hi('PyCharm', 15)
     print('!!!')
+    print('fix')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
